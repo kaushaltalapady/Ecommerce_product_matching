@@ -49,5 +49,11 @@ We can use Simple vectorizer Tfidf and label and create a dataset which could be
 ### Siamese network
 A step ahead previous approach is that to feed the tests into siamese network and train it based on labeled data with loss functions like Tiplet loss, contrastive loss etc
 
+
+
+
+
 ## Web App
 The Web app initially takes the Query file (file whose products has to be matched),Then We also need to update the file where we fetched the similar products from(matching file) after which we need the row to which query from  then we need to select the method to compute similarity then the web app provides results  
+
+https://user-images.githubusercontent.com/32949174/205100613-02b8ded3-221e-4a52-a781-8a6ff44b90de.mp4
